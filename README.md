@@ -12,3 +12,6 @@ Data Pipeline:
 Looker Dashboard: 
 
 ![image](https://github.com/PabloSerranoMedina/Splitwise-Dashboard/assets/156333917/9830d295-df2e-4cec-a51f-54aed3bbf438)
+
+
+check the "to_csv.py" for the code. 
